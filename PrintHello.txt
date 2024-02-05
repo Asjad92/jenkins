@@ -1,0 +1,7 @@
+class PrintHello
+{
+pubic static void main(String args[])
+{
+system.out.pritntln("Nai horaha hai");
+}
+}
